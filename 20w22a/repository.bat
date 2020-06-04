@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=deobf-server.jar -DgroupId=io.github.lukeeff -DartifactId=minecraft-server -Dversion=20w22a -Dpackaging=jar
